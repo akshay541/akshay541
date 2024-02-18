@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay541
-- 👀 I’m interested in python, analytics
-- 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on reactJS, MERN Stack
+- 👀 I’m interested in python, Devops, SRE
+- 🌱 I’m currently learning Devops/SRE
+- 💞️ I’m looking to collaborate on reactJS, MERN Stack, implementation of Devops/SRE culture.
 - 📫 How to reach me akshay.kilaru1997@gmail.com
 
 <!---
